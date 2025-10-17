@@ -14,7 +14,7 @@ const app = express();
 
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://mash-polist-splash.surge.sh' // Replace with your surge domain
+  'https://wetransfer-order.vercel.app' // Replace with your vercel domain
 ];
 
 const PORT = process.env.PORT || 8080;
